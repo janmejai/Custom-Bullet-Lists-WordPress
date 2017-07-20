@@ -31,8 +31,8 @@ Currently, the plugin provides 7 styles for bullet lists. I'll welcome [suggesti
 
 == Screenshots ==
 
-1. List of custom bullet options availabla, In the post ditor page. 
-2. How custom bullet options, look in the post editor page.
+1. List of custom bullet options available in the post editor. 
+2. How custom bullet options, look in the post editor.
 3. Visibility of Custom bullet options on a published page.
 4. Visibility of Custom bullet options on a published page.
 
